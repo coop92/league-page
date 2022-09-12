@@ -100,7 +100,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">ALL GOLD EVERYTHING LEAGUE CONSTITUTION -- IGNORE FOR NOW</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
